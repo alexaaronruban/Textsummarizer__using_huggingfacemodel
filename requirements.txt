@@ -1,0 +1,29 @@
+transformers
+transformers[sentencepiece]
+transformers[torch]
+accelerate==0.20.1
+protobuf==3.20.1
+datasets
+fsspec
+sacrebleu 
+rouge_score 
+py7zr
+pandas
+nltk
+tqdm
+PyYAML
+matplotlib
+torch
+torch 
+torchvision 
+torchaudio 
+#-f https://download.pytorch.org/whl/cuXXX/torch_stable.html
+notebook
+boto3
+mypy-boto3-s3
+python-box
+ensure==1.0.2
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2
+-e .
