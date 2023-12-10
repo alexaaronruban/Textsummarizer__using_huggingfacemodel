@@ -1,4 +1,4 @@
-# Textsummarizer using Huggingface model
+# Textsummarizer using model which trained on data using Huggingface model
 This Text Summarizer application is powered by the 'text summarization ML model' which is trained on data obtained from pytorch website which is the SAMSUN dataset of test dialogue and it's summarized text. The model trained on the corpus is imported from huggingface and the trained model can be used as an API endpoint for applications such as the one used in this project. The training of the model is constrained by limited resources, leading to a relatively small dataset for training. The artificial intelligence model undergoes training through Visual Studio, utilizing Python-based code and adhering to software development methodologies.
 
 # Front End
